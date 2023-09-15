@@ -10,11 +10,6 @@
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
   
-  <h3>Good Luck</h3>
   
-  <h1>Best of luck</h1>
-  
-  <h3>Good Bye</h3>
-
 </body>
 </html>
